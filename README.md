@@ -1,5 +1,10 @@
-# binary-decoder
+# Binary Decoder
 
-# decode file contents (binary)
-# in terminal, run to decode file (key0):
-# > python3 decode.py key0
+decode binary content in a file (example: key0)
+
+## Run
+in terminal, run to decode file (key0):
+
+```
+> python3 decode.py key0
+```
